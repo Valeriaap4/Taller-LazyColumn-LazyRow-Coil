@@ -29,11 +29,3 @@ fun BasicFeedList(posts: List<Post>) {
     }
 }
 
-@Composable
-fun FeedWithIndex(posts: List<Post>) {
-    LazyColumn {
-        itemsIndexed(posts) { index, post ->
-            Text("Post #$index: ${post.username}")
-        }
-    }
-}

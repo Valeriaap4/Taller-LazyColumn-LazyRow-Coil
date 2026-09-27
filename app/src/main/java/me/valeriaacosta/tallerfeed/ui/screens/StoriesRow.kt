@@ -28,6 +28,7 @@ import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import me.valeriaacosta.tallerfeed.data.Story
+import coil3.compose.AsyncImage
 
 @Composable
 fun StoriesRow(stories: List<Story>) {
