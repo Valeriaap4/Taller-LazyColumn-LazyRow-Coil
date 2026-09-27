@@ -1,4 +1,4 @@
-package me.valeriaacosta.tallerfeed.ui.screens
+package me.valeriaacosta.tallerfeed.ui.components
 
 import androidx.compose.foundation.border
 import androidx.compose.foundation.layout.Arrangement

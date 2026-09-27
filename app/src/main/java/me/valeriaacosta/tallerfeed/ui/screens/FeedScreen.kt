@@ -25,6 +25,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.sp
 import me.valeriaacosta.tallerfeed.data.DataSource
 import me.valeriaacosta.tallerfeed.ui.components.PostCard
+import me.valeriaacosta.tallerfeed.ui.components.StoriesRow
 
 
 @Composable

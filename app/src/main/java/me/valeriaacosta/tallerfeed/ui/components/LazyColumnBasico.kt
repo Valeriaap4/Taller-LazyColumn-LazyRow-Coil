@@ -1,4 +1,4 @@
-package me.valeriaacosta.tallerfeed.ui.screens
+package me.valeriaacosta.tallerfeed.ui.components
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.PaddingValues
@@ -9,7 +9,6 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import me.valeriaacosta.tallerfeed.model.Post
-import me.valeriaacosta.tallerfeed.ui.components.PostCard
 
 @Composable
 fun BasicFeedList(posts: List<Post>) {
@@ -27,4 +26,3 @@ fun BasicFeedList(posts: List<Post>) {
         }
     }
 }
-
