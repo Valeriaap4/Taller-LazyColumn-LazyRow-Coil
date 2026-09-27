@@ -1,2 +1,2 @@
-package me.valeriaacosta.tallerfeed.data
+package me.valeriaacosta.tallerfeed.model
 

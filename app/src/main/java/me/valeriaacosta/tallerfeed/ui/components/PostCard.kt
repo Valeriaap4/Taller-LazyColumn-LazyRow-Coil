@@ -42,7 +42,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 
 import androidx.compose.ui.platform.LocalContext
-import me.valeriaacosta.tallerfeed.data.Post
+import me.valeriaacosta.tallerfeed.model.Post
 
 @Composable
 fun PostCard(

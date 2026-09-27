@@ -1,7 +1,8 @@
-package me.valeriaacosta.tallerfeed.model
+package me.valeriaacosta.tallerfeed.data
 
-import me.valeriaacosta.tallerfeed.data.Post
-import me.valeriaacosta.tallerfeed.data.Story
+import me.valeriaacosta.tallerfeed.model.Post
+import me.valeriaacosta.tallerfeed.model.Story
+
 
 object DataSource {
 

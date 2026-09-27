@@ -1,4 +1,4 @@
-package me.valeriaacosta.tallerfeed.data
+package me.valeriaacosta.tallerfeed.model
 
 data class Post(
     val id: Int,
